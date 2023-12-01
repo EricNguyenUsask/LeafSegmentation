@@ -28,6 +28,7 @@ scikit-image
 Matplotlib
 
 # Contributing:
+
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 # Acknowledgments:
