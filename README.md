@@ -11,13 +11,17 @@ Single connected component output
 
 # Usage:
 import skimage.io as io
+
 from leafseg import segleaf
+
 image = io.imread("path/to/your/image.jpg")
+
 segmented_image = segleaf(image)
+
 
 # Dependencies:
 
-# NumPy
+NumPy
 scikit-image
 Matplotlib
 Contributing:
