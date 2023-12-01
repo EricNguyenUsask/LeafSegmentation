@@ -22,9 +22,12 @@ segmented_image = segleaf(image)
 # Dependencies:
 
 NumPy
+
 scikit-image
+
 Matplotlib
-Contributing:
+
+# Contributing:
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
 
 # Acknowledgments:
